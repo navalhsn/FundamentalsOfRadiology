@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.0)
+  - CountryPickerSwift (1.8.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+
+DEPENDENCIES:
+  - Alamofire (= 4.9.0)
+  - CountryPickerSwift (= 1.8)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CountryPickerSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  CountryPickerSwift: 4c328ae9687322cacf541120f5c43f0e2c1ba194
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+
+PODFILE CHECKSUM: 31ab546e79066db5a3b58e90fc530490bc2f64c3
+
+COCOAPODS: 1.9.3

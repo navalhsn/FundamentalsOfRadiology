@@ -1,0 +1,6 @@
+framework module Pods_FRS {
+  umbrella header "Pods-FRS-umbrella.h"
+
+  export *
+  module * { export * }
+}

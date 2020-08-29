@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FRS/Pods-FRS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CountryPickerSwift/CountryPicker.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
